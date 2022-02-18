@@ -1,9 +1,4 @@
-//有问题加推特咨询：https://twitter.com/flypotato132 或进社群 https://discord.gg/kqeX7Zbmq4
-//有问题加推特咨询：https://twitter.com/flypotato132 或进社群 https://discord.gg/kqeX7Zbmq4
-//有问题加推特咨询：https://twitter.com/flypotato132 或进社群 https://discord.gg/kqeX7Zbmq4
-//有问题加推特咨询：https://twitter.com/flypotato132 或进社群 https://discord.gg/kqeX7Zbmq4
-//有问题加推特咨询：https://twitter.com/flypotato132 或进社群 https://discord.gg/kqeX7Zbmq4
-//有问题加推特咨询：https://twitter.com/flypotato132 或进社群 https://discord.gg/kqeX7Zbmq4
+
 const fs = require("fs");
 const axios = require('axios-https-proxy-fix');
 const qs = require("qs")
