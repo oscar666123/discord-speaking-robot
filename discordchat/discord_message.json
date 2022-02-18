@@ -1,0 +1,172 @@
+{
+  "autoBot" : true,
+  "config" : [
+    {
+    "discord_link": "discord链接",
+    "token" : "你的token",
+    "channel_id" : "你的频道id",
+    "time_interval": 60
+  },
+    {
+      "discord_link": "discord链接",
+      "token" : "你的token",
+      "channel_id" : "你的频道id",
+      "time_interval": 60
+    }
+  ],
+  "bot": [
+    {
+      "message": "所以我先肝为敬"
+    },
+    {
+      "message": "肝起来"
+    },
+    {
+      "message": "升一等大概花多久啊兄弟們"
+    },
+    {
+      "message": "好想升級啊"
+    },
+    {
+      "message": "太屌了！"
+    },
+    {
+      "message": "冲鸭"
+    },
+    {
+      "message": "纯粹的冲"
+    },
+    {
+      "message": "升一等大概沖多久"
+    },
+    {
+      "message": "冲吧，我都要快疯了。"
+    },
+    {
+      "message": "真的牛逼"
+    },
+    {
+      "message": "我疯了"
+    },
+    {
+      "message": "白名单我来了"
+    },
+    {
+      "message": "争取天亮前肝到"
+    },
+    {
+      "message": "加油，不要放弃"
+    },
+    {
+      "message": "肝呀"
+    },
+    {
+      "message": "我们可以的"
+    },
+    {
+      "message": "你狠厲害呀"
+    },
+    {
+      "message": "今天肝 "
+    },
+    {
+      "message": "哈哈哈哈"
+    },
+    {
+      "message": "加油啊"
+    },
+    {
+      "message": "还有多久啊"
+    },
+    {
+      "message": "加油兄弟们"
+    },
+    {
+      "message": "不知道给几天时间？"
+    },
+    {
+      "message": "起飞"
+    },
+    {
+      "message": "肝爆"
+    },
+    {
+      "message": "感谢"
+    },
+    {
+      "message": "给我升升升"
+    },
+    {
+      "message": "你们多少级了"
+    },
+    {
+      "message": "拿白规则只会越来越严"
+    },
+    {
+      "message": "肝吧"
+    },
+    {
+      "message": "哈哈哈哈"
+    },
+    {
+      "message": "吃饭"
+    },
+    {
+      "message": "牛牛牛"
+    },
+    {
+      "message": "哎"
+    },
+    {
+      "message": "肝爆他"
+    },
+    {
+      "message": "那就早点放弃"
+    },
+    {
+      "message": "看起来像机器+人工"
+    },
+    {
+      "message": "兄弟们，我觉得我们都有希望的"
+    },
+    {
+      "message": "水了大半天了"
+    },
+    {
+      "message": "都要肝肾亏了"
+    },
+    {
+      "message": "赶紧升级"
+    },
+    {
+      "message": "我完全純手工"
+    },
+    {
+      "message": "你还差多少啊"
+    },
+    {
+      "message": "小心啥啊 各位哦"
+    },
+    {
+      "message": "加油吧大家"
+    },
+    {
+      "message": "竞争太大了"
+    },
+    {
+      "message": "冲到明天"
+    },
+    {
+      "message": "升级为王"
+    },
+    {
+      "message": "哈哈"
+    },
+    {
+      "message": "各位加油～"
+    },
+    {
+      "message": "哈哈哈"
+    }
+  ]
+}
